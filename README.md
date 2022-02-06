@@ -8,6 +8,7 @@
        <section>
         <div class="content">
           <center> <h1> Group 2 Blog </h1> </center>
+		<h5> Posted: 2/6/22 </h5>
           <h2> Alice, the first all-electric passenger airplane, prepares to fly </h2>
           <p> The Alice, a plane developed by Israeli company Eviation, went through engine testing last week, and according to the Eviation CEO Omer Bar-Yohay, 
 		  the Alice is just weeks away from its first flight. The nine pasenger Alice will be able to fly for one hour, or 440 nautical miles. The company
