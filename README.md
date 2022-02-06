@@ -6,6 +6,12 @@
                                      <title> My first website </title>
     </head>
     <body>
-      This is my website
+      
+      <section>
+        <div>
+          <h1> this is a section</h1>
+          <p> this is a body to the section</p>
+        </div>
+      </section>
     </body>
   </html>
