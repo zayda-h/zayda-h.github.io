@@ -9,7 +9,9 @@
         <div class="content">
           <center> <h1> Group 2 Blog </h1> </center>
           <h2> Alice, the first all-electric passenger airplane, prepares to fly </h2>
-          <p> The Alice, a plane developed by Israeli company Eviation, went through engine testing last week, and according to the Eviation CEO Omer Bar-Yohay, the Alice is just weeks away from its first flight</p>
+          <p> The Alice, a plane developed by Israeli company Eviation, went through engine testing last week, and according to the Eviation CEO Omer Bar-Yohay, 
+		  the Alice is just weeks away from its first flight. The nine pasenger Alice will be able to fly for one hour, or 440 nautical miles. The company
+		orginally aimed for Alice to take flight before 2122, but poor weather conditions in the Pacific Northwest hindered testing.</p>
           <p> Growing electric aviation startups and established aviation companies and donations to those copmapies (if any): </p>
           <ul>
             <li>NASA gave $253 million to GE Aviation and magniX to bring the technology to the US by 2035.</li>
