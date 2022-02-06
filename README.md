@@ -9,7 +9,7 @@
       <section>
         <div class="content">
           <h1> subject of content such as tech or tamu </h1>
-          <h2> this is a section</h2>
+          <h2> this is a section </h2>
           <p> this is a body to the section</p>
           <p> im working on this currently</p>
           <ul>
