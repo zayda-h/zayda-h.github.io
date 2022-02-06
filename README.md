@@ -8,7 +8,6 @@
       
       <section>
         <div class="content">
-          <center> <h1> subject of content such as tech or tamu </h1> </center>
           <h2> this is a section </h2>
 					<p> this is a body to the section</p>
           <ul>
@@ -39,7 +38,6 @@
       </section>
        <section>
         <div class="content">
-          <center> <h1> subject of content such as tech or tamu </h1> </center>
           <h2> this is a section </h2>
           <p> this is a body to the section</p>
           <p> im working on this currently</p>
