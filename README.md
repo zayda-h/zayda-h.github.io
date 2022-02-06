@@ -1,10 +1,8 @@
 <DOCTYPE html>
   <html>
-    <title> My first website </title>
     <head>
       <meta charset="utf-s">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title> My first website </title>
     </head>
     <body>
       
@@ -15,7 +13,7 @@
           <p> im working on this currently</p>
           <ul>
             <li>happy coding</li>
-            <li>wow</li>
+            <li></li>
             <li>hellow world</li>
           </ul>
         </div>
