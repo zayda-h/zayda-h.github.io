@@ -24,9 +24,9 @@
 		<p> Source: https://www.cnn.com/2022/01/31/tech/alice-eviation-test-flight/index.html </p>
         </div>
       </section>
-	 <section>
+	    
+	<section>
         <div class="content">
-          <center> <h1> Group 2 Blog </h1> </center>
 		<h5> Posted: 2/6/22 </h5>
           <h2> Alice, the first all-electric passenger airplane, prepares to fly </h2>
           <p> The Alice, a plane developed by Israeli company Eviation, went through engine testing last week, and according to the Eviation CEO Omer Bar-Yohay, 
@@ -42,7 +42,7 @@
           
 		<p> Source: https://www.cnn.com/2022/01/31/tech/alice-eviation-test-flight/index.html </p>
         </div>
-      </section>
+       </section>
       
     </body>
   </html>
