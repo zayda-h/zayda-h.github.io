@@ -10,8 +10,7 @@
         <div class="content">
           <center> <h1> subject of content such as tech or tamu </h1> </center>
           <h2> this is a section </h2>
-          <p> this is a body to the section</p>
-          <p> im working on this currently</p>
+					<p> this is a body to the section</p>
           <ul>
             <li>happy coding</li>
             <li></li>
@@ -25,8 +24,8 @@
        <section>
         <div class="content">
           <center> <h1> subject of content such as tech or tamu </h1> </center>
-          <h2> this is a section </h2>
-          <p> this is a body to the section</p>
+          <h2> Alice, the first all-electric passenger airplane, prepares to fly </h2>
+          <p> The Alice, a plane developed by Israeli company Eviation, went through engine testing last week, and according to the Eviation CEO Omer Bar-Yohay, the Alice is just weeks away from its first flight</p>
           <p> im working on this currently</p>
           <ul>
             <li>happy coding</li>
