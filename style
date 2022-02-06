@@ -1,4 +1,5 @@
 .content {
   width: 500px;
   margin: auto;
+  border: thin solid black;
 }
