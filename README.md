@@ -19,7 +19,9 @@
             <li>Boeing is investing $450 in Wish Aero, who is building an all-electric, autonomous, passenger aircraft.</li>
 	    <li>Airbus has been working on its own electric aviation endeavours since 2010.</li>
 	  </ul>  
-	  <p>Electric aviation proponents predict Alice and electric planes like it becoming as commonplace as any other means of transportation. <cite>"It really integrates aviation into the fabric of transportation, of our commuter life. It does so while being sustainable, and through being economically viable," said Bar-Yohay. "Once we start seeing planes like this, the entire way we look at where we live, how we commute, how we go on vacation, will change. It will be a high-speed train without the rail." </cite></p>
+	  
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345"> 
+	<p>Electric aviation proponents predict Alice and electric planes like it becoming as commonplace as any other means of transportation. <cite>"It really integrates aviation into the fabric of transportation, of our commuter life. It does so while being sustainable, and through being economically viable," said Bar-Yohay. "Once we start seeing planes like this, the entire way we look at where we live, how we commute, how we go on vacation, will change. It will be a high-speed train without the rail." </cite></p>
           
 		<p> Source: https://www.cnn.com/2022/01/31/tech/alice-eviation-test-flight/index.html </p>
         </div>
