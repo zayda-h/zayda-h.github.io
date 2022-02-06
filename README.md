@@ -16,6 +16,9 @@
             <li></li>
             <li>hellow world</li>
           </ul>
+          <h2> this is the second section</h2>
+          <p> type you content here </p>
+          <p> Second piece o f conentent if necessary </p>
         </div>
       </section>
     </body>
